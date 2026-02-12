@@ -4,3 +4,7 @@ data <- read_csv("/Users/kylenguyen/Desktop/Data and Coding/Coding/Journal/taiwa
 
 data %>%
   ggplot(aes(x=`IMPORT`, y=`EXPORT`)) + geom_line() + theme_void()
+
+
+data %>%
+  gather()

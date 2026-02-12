@@ -1,8 +1,15 @@
-﻿YEAR/MONTH,TOTAL TRADE,TOTAL TRADE,EXPORT,EXPORT,IMPORT,IMPORT,SURPLUS/DEFICIT,SURPLUS/DEFICIT
+﻿"From January 2016, the import and export trade statistics method shifts to general trade system. The special trade system was in use until 2015.",,,,,,,,
+REPORT_ID : FSC3030R,,,,,,,,
+COUNTRY(REGION): Honduras,,,,,PRINT TIME:2026/02/05 04:55:25,,,
+CCC_CODE: ALL-,,,,,UNIT:US($),,,
+,,,,,,,,
+TIME PERIOD :2022 - 2024 (re-imports & re-exports included),,,,,,,,
+YEAR/MONTH,TOTAL TRADE,,EXPORT,,IMPORT,,SURPLUS/DEFICIT,
 ,AMOUNT,GROWTH RATE(%),AMOUNT,GROWTH RATE(%),AMOUNT,GROWTH RATE(%),AMOUNT,GROWTH RATE(%)
 2022,"192,010,782",29.076,"63,160,020",-7.258,"128,850,762",59.754,"-65,690,742",423.326
 2023,"188,047,122",-2.064,"71,044,136",12.483,"117,002,986",-9.195,"-45,958,850",-30.038
 2024,"102,498,109",-45.493,"66,880,603",-5.860,"35,617,506",-69.558,"31,263,097",---
+***Expand by month***,,,,,,,,
 202301,"12,354,354",-15.350,"3,948,328",-26.523,"8,406,026",-8.838,"-4,457,698",15.861
 202302,"22,385,837",76.598,"4,398,553",36.978,"17,987,284",90.039,"-13,588,731",117.284
 202303,"19,491,581",16.470,"5,256,420",0.022,"14,235,161",23.999,"-8,978,741",44.242
@@ -27,3 +34,5 @@
 202410,"5,528,186",-75.646,"3,309,983",-56.512,"2,218,203",-85.298,"1,091,780",---
 202411,"8,092,082",-44.757,"3,950,173",-34.448,"4,141,909",-51.961,"-191,736",-92.614
 202412,"8,950,366",-49.770,"5,830,300",-30.113,"3,120,066",-67.075,"2,710,234",---
+"Source: Customs Administration, Ministry of Finance, R.O.C.",,,,,,,,
+Remarks: --- means no data is available or data cannot be represented numerically.,,,,,,,,
